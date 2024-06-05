@@ -1,0 +1,16 @@
+.container {
+  margin-top: 16px;
+}
+
+.flex-box {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+.paper {
+  display: flex;
+  justify-content: space-between;
+  min-height: 200px;
+  padding: 16px;
+}
