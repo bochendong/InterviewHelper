@@ -14,7 +14,9 @@
 
 ## 👋 Introduction
 
-Welcome to InterviewPal, your real-time interview assistant designed to streamline the interview process. InterviewPal leverages advanced speech recognition and natural language processing technologies to transcribe interviews in real-time, translate them, and provide instant feedback using OpenAI's GPT-3.5 API. This tool is perfect for interviewers, recruiters, and HR professionals looking to enhance their interview experience with cutting-edge AI technology.
+Welcome to InterviewPal, your real-time interview assistant designed to streamline the interview process. InterviewPal leverages advanced speech recognition and natural language processing technologies to transcribe interviews in real-time, translate them, and provide instant feedback using OpenAI's GPT-4 API. 
+
+This tool is perfect for interviewers, recruiters, and HR professionals looking to enhance their interview experience with cutting-edge AI technology.
 
 ## Why Us?
 
@@ -43,7 +45,7 @@ User-Friendly Interface: Our intuitive and easy-to-use interface ensures you can
 Clone the Repository
 
 ```bash
-git clone https://github.com/bochendong/interviewpal.git
+git clone https://github.com/bochendong/InterviewPal.git
 ```
 
 #### Backend
