@@ -57,13 +57,12 @@ def get_source_recoder():
     data = read_voice_settings()
     record_timeout = data['record_timeout']
     phrase_timeout = data['phrase_timeout']
-    pause_threshold = data['pause_threshold']
     recorder = sr.Recognizer()
     recorder.energy_threshold = data['energy_threshold']
-    recorder.dynamic_energy_threshold = data['dynamic_energy_threshold']
+    recorder.dynamic_energy_threshold = False
     source = sr.Microphone(sample_rate=data['sample_rate'])
 
-    return source, recorder, record_timeout, phrase_timeout, pause_threshold
+    return source, recorder, record_timeout, phrase_timeout, 1
 
 def capture_and_save_audio_background(data_queue, source, recorder, record_timeout):
 

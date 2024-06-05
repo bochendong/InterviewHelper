@@ -18,7 +18,7 @@ from Agent.Utils.SaveFile import save_audio, save_transcription, save_settings
 
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}})
 app.register_blueprint(Response)
 settings = read_voice_settings() 
 socketio = SocketIO(app, cors_allowed_origins="*")
@@ -77,6 +77,13 @@ def transcription_loop(source, phrase_timeout):
             break
             
         sleep(1)
+
+@app.after_request
+def after_request(response):
+    response.headers.add('Access-Control-Allow-Origin', 'http://localhost:3000')
+    response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
+    response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE')
+    return response
 
 @app.route('/update_settings', methods=['POST'])
 def update_settings():

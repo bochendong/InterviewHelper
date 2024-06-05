@@ -120,3 +120,123 @@
  
 [20240605155926]: (None) Can you first give me some example of the difference between machine learning and deep learning?
  
+[20240605172946]: (None) This is Adam from Google.
+ 
+[20240605172948]: (None) And I'm here to ask you 你怎麼翻譯啊
+ 
+[20240605173706]: (None) This is Adam from Google.
+ 
+[20240605173711]: (None) And I'm here to.
+ 
+[20240605173715]: (None) 어... I'm your interviewer.
+ 
+[20240605173749]: (None) Hi, this is Peter from Facebook.
+ 
+[20240605173751]: (None) Hi, this is Peter from Facebook. I'm your today's interviewer.
+ 
+[20240605173756]: (None) And I'm here to ask you some questions about
+ 
+[20240605173758]: (None) I'm here to ask you some questions about machine learning.
+ 
+[20240605173802]: (None) Uh, can you first tell me some difference between, uh,
+ 
+[20240605173804]: (None) Can you first tell me some difference between machine learning and deep learning?
+ 
+[20240605173858]: (None) It's a...
+ 
+[20240605173900]: (None) Alex from Apple.
+ 
+[20240605173903]: (None) and I'm your today's interviewer.
+ 
+[20240605173908]: (None) C++
+ 
+[20240605173910]: (None) 呃...看月...
+ 
+[20240605173913]: (None) Tell me
+ 
+[20240605174702]: (None) Hi, this is Adam from...
+ 
+[20240605174705]: (None) iPod
+ 
+[20240605174711]: (None) and I'm your today's interviewer.
+ 
+[20240605174713]: (None) and I'm your today's interviewer.
+ 
+[20240605174717]: (None) Thank you.
+ 
+[20240605174720]: (None) Uhhh...
+ 
+[20240605174725]: (None) 说点啥呢 Q总给你加上了
+ 
+[20240605174730]: (None) 好了呀 好了呀
+ 
+[20240605174734]: (None) 我没说 因为你不是笑了两声吗
+ 
+[20240605174737]: (None) 我没说,因为你不是笑了两声吗
+ 
+[20240605174741]: (None) 为什么好了呀 我 加了
+ 
+[20240605174744]: (None) 我加了这个东西
+ 
+[20240605174746]: (None) 为什么好了呀?你加了啥啊? 我加了这个东西 好像就行了
+ 
+[20240605174751]: (None) 好吧 那你這是在API上加的嗎 別在MPoint上加了
+ 
+[20240605174754]: (None) 我不知道 反正我这玩意就是在罗湖北
+ 
+[20240605174757]: (None) Oh
+ 
+[20240605174804]: (None) 还行我觉得你看这个这个这个这个这个这个玩意儿
+ 
+[20240605174853]: (None) Uh, can you tell me some difference between, uh...
+ 
+[20240605174855]: (None) machine learning and deep learning.
+ 
+[20240605174921]: (None) Your answer is very good.
+ 
+[20240605174927]: (None) 你能告訴我
+ 
+[20240605174929]: (None) vectors and sides in C++.
+ 
+[20240605175146]: (None) 额 说点啥呢
+ 
+[20240605175157]: (None) 你能跟我说说在C++里面
+ 
+[20240605175201]: (None) vectors 跟 size 的區別嗎
+ 
+[20240605175214]: (None) 说得不错 那么你能解释一下什么是深度
+ 
+[20240605175217]: (None) 有限搜索跟廣東有限搜索嗎
+ 
+[20240605180257]: (None) 为什么是黑色的
+ 
+[20240605180303]: (None) 他还没听见你的裤衩
+ 
+[20240605180307]: (None) 你的裤衩为什么是黑色的
+ 
+[20240605180355]: (None) 为什么是黑色的
+ 
+[20240605180401]: (None) 我说你的裤衩为什么是黑色的
+ 
+[20240605180501]: (None) Talk to you in a little while, Mark.
+ 
+[20240605180504]: (None) 你再來一遍
+ 
+[20240605180510]: (None) 你听得到我说话吗
+ 
+[20240605180515]: (None) 我听得到
+ 
+[20240605180524]: (None) 对啊 就是到时候面试官用麦克风说话嘛 然后
+ 
+[20240605180529]: (None) 
+ 
+[20240605180531]: (None) 你還是接收你電腦的音訊
+ 
+[20240605180536]: (None) 我 我沒有找到 那個 那個
+ 
+[20240605180555]: (None) 如果一个桥它的载重只有
+ 
+[20240605180559]: (None) 五吨 我怎么让一个十吨的卡车通过这个
+ 
+[20240605180606]: (None) 通過這個橋
+ 

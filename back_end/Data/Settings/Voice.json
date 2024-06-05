@@ -1,6 +1,6 @@
 {
     "record_timeout": 4,
     "phrase_timeout": 3,
-    "energy_threshold": 1000,
+    "energy_threshold": 400,
     "sample_rate": 16000
 }
