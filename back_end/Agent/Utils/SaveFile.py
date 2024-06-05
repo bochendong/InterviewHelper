@@ -1,6 +1,11 @@
 import os
 from .ReadSettings import read_user_settings
 from datetime import datetime
+import json
+
+def save_settings(new_settings):
+    with open("./Data/Settings/Voice.json", 'w') as f:
+        json.dump(new_settings, f, indent=4)
 
 def save_audio(wav_data):
     current_time = datetime.now().strftime("%Y%m%d%H%M%S")

@@ -11,12 +11,20 @@ import { theme } from "./theme";
 const API_BASE_URL = "http://127.0.0.1:5000";
 const socket = io(API_BASE_URL);
 
+const defaultSettings = {
+  record_timeout: 4,
+  phrase_timeout: 3,
+  energy_threshold: 1000,
+  sample_rate: 16000,
+};
+
 function App() {
   const [transcriptHistory, setTranscriptHistory] = useState([]);
   const [translatedHistory, setTranslatedHistory] = useState([]);
   const [response, setResponse] = useState("Click Send to Receive Response");
   const [responseStatus, setResponseStatus] = useState("empty");
   const [isRecording, setIsRecording] = useState(false);
+  const [settings, setSettings] = useState(defaultSettings);
 
   useEffect(() => {
     socket.on("transcription", (data) => {
@@ -131,9 +139,27 @@ function App() {
     socket.emit(currentlyRecording ? "stop_recording" : "start_recording");
   };
 
+  const applySettings = async (newSettings) => {
+    setSettings(newSettings);
+    try {
+      const response = await fetch(`${API_BASE_URL}/update_settings`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(newSettings),
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      console.log("Settings updated successfully");
+    } catch (error) {
+      console.error("Failed to update settings:", error);
+    }
+  };
+
   return (
     <ThemeProvider theme={theme}>
-      <Header />
+      <Header settings={settings} onApplySettings={applySettings} />
       <Container style={{ marginTop: "25px" }} maxWidth="lg">
         <Grid container spacing={2} style={{ height: "88vh" }}>
           <Grid item xs={12} md={5} style={{ display: "flex", height: "100%" }}>

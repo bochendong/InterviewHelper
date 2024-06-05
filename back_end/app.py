@@ -6,27 +6,25 @@ import speech_recognition as sr
 from translate import Translator
 from datetime import datetime, timedelta
 
-from flask import Flask
+from flask import Flask, request, jsonify
 from flask_cors import CORS
 from flask_socketio import SocketIO, emit
 
 from Agent.IO.Output.Response import Response
 from Agent.IO.Output.Translation import translate_text
 from Agent.IO.Input.input import get_source_recoder, capture_and_save_audio_background, speech_to_text
-from Agent.Utils.ReadSettings import create_data_folder
-from Agent.Utils.SaveFile import save_audio, save_transcription
+from Agent.Utils.ReadSettings import create_data_folder, read_voice_settings
+from Agent.Utils.SaveFile import save_audio, save_transcription, save_settings
 
 
 app = Flask(__name__)
 CORS(app)
 app.register_blueprint(Response)
-
+settings = read_voice_settings() 
 socketio = SocketIO(app, cors_allowed_origins="*")
 translator = Translator(to_lang="zh")
 
 data_buffer = Queue()
-transcript_record = ""
-
 stop_event = threading.Event()
 
 def generate_transcription(source, last_sample):
@@ -79,6 +77,14 @@ def transcription_loop(source, phrase_timeout):
             break
             
         sleep(1)
+
+@app.route('/update_settings', methods=['POST'])
+def update_settings():
+    global settings
+    new_settings = request.json
+    settings.update(new_settings)
+    save_settings(new_settings)
+    return jsonify({"status": "success", "updated_settings": settings}), 200
 
 @socketio.on('start_recording')
 def start_recording():
