@@ -1,490 +1,122 @@
-[20240605025229]: (None) 给我一些例子
+[20240605154921]: (None) Uh, this is Adam.
  
-[20240605025231]: (None) 给我一些例子
+[20240605154923]: (None) I'm your today's interviewer.
  
-[20240605025234]: (None) 给我一些例子
+[20240605154926]: (None) I'm here to ask
  
-[20240605025237]: (None) 给我一些例子
+[20240605154928]: (None) you some questions about
  
-[20240605025337]: (None) Can you give me some example?
+[20240605154931]: (None) The basic machine
  
-[20240605025340]: (None) Can you give me some example of machine learning models?
+[20240605154933]: (None) concepts.
  
-[20240605025343]: (None) Can you give me some example of machine learning models?
+[20240605154935]: (None) Can you give me like one or two?
  
-[20240605025350]: (None) Can you...
+[20240605154944]: (None) well to difference between
  
-[20240605025351]: (None) 여러분들은...
+[20240605154953]: (None) between machine learning and deep learning.
  
-[20240605025353]: (None) Can you give me some difference between
+[20240605155158]: (None) Hi, this is Adam.
  
-[20240605025354]: (None) Can you give me some difference between
+[20240605155201]: (None) 구글에서 왔습니다.
  
-[20240605025356]: (None) Can you give me some difference between machine learning models and
+[20240605155203]: (None) And I'm your today's
  
-[20240605025357]: (None) Can you give me some difference between machine learning models and
+[20240605155211]: (None) interviewer
  
-[20240605025359]: (None) Can you give me some difference between machine learning models and
+[20240605155213]: (None) I'm here to ask you some questions about basic machine learning.
  
-[20240605025400]: (None) Can you give me some difference between machine learning models and
+[20240605155216]: (None) concepts.
  
-[20240605025402]: (None) Can you give me some difference between machine learning models and
+[20240605155218]: (None) Can you give me like 1 or 2 K difference between
  
-[20240605025403]: (None) Can you give me some difference between machine learning models and
+[20240605155221]: (None) machine learning and
  
-[20240605025404]: (None) Can you give me some difference between machine learning models and
+[20240605155223]: (None) and deep learning.
  
-[20240605025405]: (None) Can you give me some difference between machine learning models and
+[20240605155245]: (None) Uh, this is Adam from Google.
  
-[20240605025407]: (None) Can you give me some difference between machine learning models and
+[20240605155247]: (None) Nice to meet you. Nice to meet you, too.
  
-[20240605025408]: (None) Can you give me some difference between machine learning models and
+[20240605155253]: (None) 제 질문은요
  
-[20240605025410]: (None) Can you give me some difference between machine learning models and
+[20240605155255]: (None) some questions about machine learning and
  
-[20240605025411]: (None) Can you give me some difference between machine learning models and
+[20240605155258]: (None) deep learning.
  
-[20240605025413]: (None) Can you give me some difference between machine learning models and
+[20240605155300]: (None) Firstly, can you give me?
  
-[20240605025414]: (None) Can you give me some difference between machine learning models and
+[20240605155302]: (None) 
  
-[20240605025415]: (None) Can you give me some difference between machine learning models and
+[20240605155305]: (None) 1L2K difference.
  
-[20240605025417]: (None) Can you give me some difference between machine learning models and
+[20240605155307]: (None) between machine learning and deep learning.
  
-[20240605025418]: (None) Can you give me some difference between machine learning models and
+[20240605155320]: (None) Okay, that's nice
  
-[20240605025450]: (None) Can you give me some difference between
+[20240605155323]: (None) 그럼 다음 시간에 만나요
  
-[20240605025453]: (None) You gave me some difference between machine learning models and deep learning models.
+[20240605155325]: (None) 
  
-[20240605025456]: (None) You gave me some difference between machine learning models and deep learning models.
+[20240605155327]: (None) questions. Each question takes one to two hours.
  
-[20240605025539]: (None) maybe
+[20240605155331]: (None) and let's say
  
-[20240605025541]: (None) maybe
+[20240605155351]: (None) This is...
  
-[20240605025544]: (None) maybe talk to me about something interesting.
+[20240605155353]: (None) This is Peter from Facebook.
  
-[20240605025547]: (None) maybe talk to me about something interesting.
+[20240605155355]: (None) And I'm here to ask you some
  
-[20240605025707]: (None) Hi, this is Adam from...
+[20240605155358]: (None) basic concepts of
  
-[20240605025710]: (None) Hi, this is Adam from Facebook and I'm your today's interviewer.
+[20240605155400]: (None) say plus plus, uh, can you.
  
-[20240605025713]: (None) Hi, this is Adam from Facebook. I'm your today's interviewer.
+[20240605155403]: (None) Uh, tell me.
  
-[20240605025716]: (None) Hi, this is Adam from Facebook. I'm your today's interviewer. Can you tell me something about machine learning?
+[20240605155405]: (None) How is...
  
-[20240605025719]: (None) Hi, this is Adam from Facebook. I'm your today's interviewer. Can you tell me something about machine learning?
+[20240605155407]: (None) Vector
  
-[20240605025749]: (None) and what's the difference between
+[20240605155443]: (None) 여기서 몇 가지 질문을 드리겠습니다.
  
-[20240605025752]: (None) and what's the difference between machine learning and deep learning?
+[20240605155446]: (None) basic concepts of
  
-[20240605025755]: (None) and what's the difference between machine learning and deep learning?
+[20240605155448]: (None) C++.
  
-[20240605025902]: (None) Hi, this is
+[20240605155451]: (None) 다른 점이 무엇인가요?
  
-[20240605025904]: (None) Hi, this is Adam from Facebook.
+[20240605155453]: (None) between
  
-[20240605025907]: (None) Hi, this is Adam from Facebook and I'm your today's interviewer.
+[20240605155455]: (None) Uh sites and
  
-[20240605025910]: (None) Hi, this is Adam from Facebook and I'm your today's interviewer and I will ask you a few questions.
+[20240605155458]: (None) and vectors in C++.
  
-[20240605025913]: (None) Hi, this is Alan from Facebook and I'm your today's interviewer and I will ask you a few questions about C++.
+[20240605155613]: (None) Hi, this is Adam from Google.
  
-[20240605025917]: (None) Hi, this is Adam from Facebook, and I'm your today's interviewer, and I will ask you a few questions about C++. Can you tell me first, how did you learn C++?
+[20240605155618]: (None) 오늘의 인터뷰는 여기까지!
  
-[20240605025920]: (None) Hi, this is Adam from Facebook and I'm your today's interviewer and I will ask you a few questions about C++. Can you tell me first how is vector?
+[20240605155623]: (None) to ask you some questions about machine learning and deep learning.
  
-[20240605025924]: (None) Hi, this is Alan from Facebook and I'm your today's interviewer and I will ask you a few questions about C++. Can you tell me first how is vector implement in C++?
+[20240605155633]: (None) Can you first give me one or two examples of machine learning?
  
-[20240605025927]: (None) Hi, this is Alan from Facebook and I'm your today's interviewer and I will ask you a few questions about C++. Can you tell me first how is vector implement in C++?
+[20240605155732]: (None) Hi, this is Adam from Facebook.
  
-[20240605030051]: (None) Hi, this is...
+[20240605155734]: (None) 오늘 인터뷰였습니다.
  
-[20240605030053]: (None) Hi, this is Adam from Facebook.
+[20240605155741]: (None) And I'm here to ask you some questions about machine learning and deep learning.
  
-[20240605030056]: (None) Hi, this is Adam from Facebook and I'm your today's interviewer.
+[20240605155751]: (None) Can you first give me one or two difference between the machine learning and deep learning?
  
-[20240605030059]: (None) Hi, this is Adam from Facebook, and I'm your today's interviewer.
+[20240605155914]: (None) Hi, this is Adam from Google. I'm here to ask you.
  
-[20240605030102]: (None) Hi, this is Adam from Facebook, and I'm here to ask you...
+[20240605155914]: (None) Hi, this is Adam from Google. I'm here to ask you.
  
-[20240605030105]: (None) Hi, this is Adam from Facebook, and I'm here to ask you some questions about C++.
+[20240605155917]: (None) some questions about machine learning and deep learning.
  
-[20240605030108]: (None) Hi, this is Adam from Facebook, and I'm here to ask you some questions about C++. Can you tell me is there any...
+[20240605155918]: (None) some questions about machine learning and deep learning.
  
-[20240605030111]: (None) Hi, this is Adam from Facebook, and I'm here to ask you some questions about C++. Can you tell me is there any difference between...
+[20240605155923]: (None) can you first give me some example of the different can you first give me some example of the different
  
-[20240605030114]: (None) Hi, this is Adam from Facebook, and I'm here to ask you some questions about C++. Can you tell me is there any difference between set and vectors?
- 
-[20240605030117]: (None) Hi, this is Adam from Facebook, and I'm here to ask you some questions about C++. Can you tell me is there any difference between set and vectors?
- 
-[20240605030140]: (None) And then can you tell me
- 
-[20240605030143]: (None) And then can you tell me
- 
-[20240605030145]: (None) and then can you tell machine learning and
- 
-[20240605030148]: (None) and then can you tell machine learning and
- 
-[20240605030150]: (None) and then can you tell machine learning and
- 
-[20240605030153]: (None) and then can you tell machine learning and
- 
-[20240605030245]: (None) 嗨
- 
-[20240605030247]: (None) Hi, this is Adam from
- 
-[20240605030249]: (None) Hi, this is Adam from Facebook.
- 
-[20240605030251]: (None) Hi, this is Adam from Facebook.
- 
-[20240605030253]: (None) Hi, this is Adam from Facebook and I'm here to
- 
-[20240605030255]: (None) Hi, this is Adam from Facebook and I'm here to I'm your today's interviewer
- 
-[20240605030257]: (None) Hi, this is Adam from Facebook, and I'm here to, I'm your today's interviewer, and I'm here to ask you something.
- 
-[20240605030300]: (None) Hi, this is Adam from Facebook and I'm here to, I'm your today's interviewer and I'm here to ask you something about C++ and
- 
-[20240605030302]: (None) Hi, this is Adam from Facebook, and I'm here to, I'm your today's interviewer, and I'm here to ask you something about C++ and machine learning.
- 
-[20240605030305]: (None) Hi, this is Adam from Facebook, and I'm here to, I'm your today's interviewer, and I'm here to ask you something about C++ and machine learning. Can you first tell me what's the difference between set and vectors?
- 
-[20240605030308]: (None) Hi, this is Adam from Facebook, and I'm here to, I'm your today's interviewer, and I'm here to ask you something about C++ and machine learning. Can you first tell me what's the difference between set and vectors?
- 
-[20240605030339]: (None) Uh, so...
- 
-[20240605030341]: (None) Uh, so, uh, I see you, uh...
- 
-[20240605030343]: (None) Uh, so, uh, I see you, uh...
- 
-[20240605030345]: (None) So, I see you talk about the dynamic array.
- 
-[20240605030347]: (None) So, I see you talk about the dynamic array.
- 
-[20240605030349]: (None) So, I see you talk about the dynamic array.
- 
-[20240605030351]: (None) So, I see you talk about the dynamic array.
- 
-[20240605030354]: (None) So, I see you talk about the dynamic array.
- 
-[20240605030413]: (None) Hi. Hi. This is.
- 
-[20240605030415]: (None) Hi, this is Adam from Facebook.
- 
-[20240605030417]: (None) Hi, this is Adam from Facebook and I'm your today's interviewer.
- 
-[20240605030420]: (None) Hi, this is Adam from Facebook and I'm your today's interviewer.
- 
-[20240605030422]: (None) Hi, this is Adam from Facebook and I'm your today's interviewer. Glad to meet you.
- 
-[20240605030425]: (None) Hi, this is Adam from Facebook, and I'm your today's interviewer. Glad to meet you, and I'm here to ask you some questions.
- 
-[20240605030427]: (None) Hi, this is Adam from Facebook and I'm your today's interviewer. Glad to meet you and I'm here to ask you some questions about
- 
-[20240605030429]: (None) Hi, this is Adam from Facebook, and I'm your today's interviewer. Glad to meet you, and I'm here to ask you some questions about C++ and C++2.
- 
-[20240605030432]: (None) Hi, this is Adam from Facebook and I'm your today's interviewer. Glad to meet you and I'm here to ask you some questions about C++ and some machine learning concepts.
- 
-[20240605030434]: (None) Hi, this is Adam from Facebook and I'm your today's interviewer. Glad to meet you and I'm here to ask you some questions about C++ and some machine learning concepts.
- 
-[20240605030440]: (None) Can you first
- 
-[20240605030442]: (None) Can you first tell me what is the
- 
-[20240605030445]: (None) Can you first tell me what's the difference between C++ and C++?
- 
-[20240605030447]: (None) Can you first tell me what's the difference between C++ and C++?
- 
-[20240605030503]: (None) Hi
- 
-[20240605030505]: (None) Hi, nice to meet you, this is
- 
-[20240605030507]: (None) Hi, nice to meet you. This is Adam from Facebook
- 
-[20240605030510]: (None) Hi, nice to meet you. This is Adam from Facebook
- 
-[20240605030512]: (None) Hi Nice to meet you This is Adam from Facebook, and I'm your today's interviewer I'm
- 
-[20240605030514]: (None) Hi Nice to meet you This is Adam from Facebook, and I'm your today's interviewer I'm here to ask you some
- 
-[20240605030517]: (None) Hi Nice to meet you This is Adam from Facebook, and I'm your today's interviewer I'm here to ask you something about C++
- 
-[20240605030519]: (None) Hi Nice to meet you This is Adam from Facebook, and I'm your today's interviewer I'm here to ask you something about C++ and
- 
-[20240605030522]: (None) Hi, nice to meet you. This is Adam from Facebook, and I'm your today's interviewer. I'm here to ask you something about C++ and machine learning concepts.
- 
-[20240605030524]: (None) Hi, nice to meet you. This is Adam from Facebook, and I'm your today's interviewer. I'm here to ask you something about C++ and machine learning concepts.
- 
-[20240605030526]: (None) Hi, nice to meet you. This is Adam from Facebook, and I'm your today's interviewer. I'm here to ask you something about C++ and machine learning concepts.
- 
-[20240605030529]: (None) Hi, nice to meet you. This is Adam from Facebook, and I'm your today's interviewer. I'm here to ask you something about C++ and machine learning concepts. Can you first tell me...
- 
-[20240605030532]: (None) Hi, nice to meet you. This is Adam from Facebook, and I'm your today's interviewer. I'm here to ask you something about C++ and machine learning concepts. Can you first tell me what's the difference between...
- 
-[20240605030535]: (None) Hi, nice to meet you. This is Adam from Facebook, and I'm your today's interviewer. I'm here to ask you something about C++ and machine learning concepts. Can you first tell me what's the difference between sites and vectors in C++?
- 
-[20240605030537]: (None) Hi, nice to meet you. This is Adam from Facebook, and I'm your today's interviewer. I'm here to ask you something about C++ and machine learning concepts. Can you first tell me what's the difference between sites and vectors in C++?
- 
-[20240605030611]: (None) Okay, that's nice.
- 
-[20240605030613]: (None) That's nice. Then I will ask you
- 
-[20240605030615]: (None) That's nice. Then I will ask you
- 
-[20240605030617]: (None) Ok, that's nice. Then I will ask you about the...
- 
-[20240605030619]: (None) Ok, that's nice. Then I will ask you about the...
- 
-[20240605030621]: (None) Okay, that's nice. Then I will ask you about the...
- 
-[20240605030623]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some.
- 
-[20240605030625]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some difference between.
- 
-[20240605030627]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some difference between.
- 
-[20240605030630]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some difference between machine learning and.
- 
-[20240605030632]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some difference between machine learning and.
- 
-[20240605030634]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some difference between machine learning and.
- 
-[20240605030636]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some difference between machine learning and.
- 
-[20240605030639]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some difference between machine learning and deep learning?
- 
-[20240605030641]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some difference between machine learning and deep learning?
- 
-[20240605030643]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some difference between machine learning and deep learning?
- 
-[20240605030646]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some difference between machine learning and deep learning? Sorry, can you say that again?
- 
-[20240605030648]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some difference between machine learning and deep learning? Sorry, can you say that again?
- 
-[20240605030651]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some difference between machine learning and deep learning? Sorry, can you say that again?
- 
-[20240605030653]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some difference between machine learning and deep learning? Sorry, can you say that again? I mean, can you tell me?
- 
-[20240605030656]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some difference between machine learning and deep learning? Sorry, can you say that again? I mean, can you tell me some difference between?
- 
-[20240605030659]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some difference between machine learning and deep learning? Sorry, can you say that again? I mean, can you tell me some difference between?
- 
-[20240605030701]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some difference between machine learning and deep learning? Sorry, can you say that again? I mean, can you tell me some difference between?
- 
-[20240605030704]: (None) Okay, that's nice. Then I will ask you about the, can you tell me some difference between machine learning and deep learning? Sorry, can you say that again? I mean, can you tell me some difference between?
- 
-[20240605030726]: (None) This is Adam from...
- 
-[20240605030728]: (None) This is Adam from...
- 
-[20240605030730]: (None) This is Adam from Facebook. I'm in today's interview.
- 
-[20240605030732]: (None) This is Adam from Facebook. I'm in today's interview. Glad to meet you.
- 
-[20240605030734]: (None) This is Adam from Facebook. I'm in today's interview. Glad to meet you.
- 
-[20240605030737]: (None) This is Adam from Facebook. I'm here today's interview gagmedia. I'm here to ask you some basic questions.
- 
-[20240605030739]: (None) This is Adam from Facebook. I'm here today's interview gagmedia. I'm here to ask you some basic questions.
- 
-[20240605030741]: (None) This is Adam from Facebook. I'm here today's interview gagmedia. I'm here to ask you some basic types of C++ and
- 
-[20240605030744]: (None) This is Adam from Facebook. I'm here today's interview gagmedia. I'm here to ask you some basic types of C++ and
- 
-[20240605030746]: (None) This is Adam from Facebook. I'm here today's interview gag media. I'm here to ask you some basic types of C++. Can you first
- 
-[20240605030748]: (None) This is Adam from Facebook. I'm here today's interview gag media. I'm here to ask you some basic types of C++. Can you first
- 
-[20240605030752]: (None) This is Adam from Facebook. I'm here today's interview gagmedia. I'm here to ask you some basic types of C++. Can you first vectors
- 
-[20240605030754]: (None) This is Adam from Facebook. I'm here today's interview gagmedia. I'm here to ask you some basic types of C++. Can you first vectors
- 
-[20240605030757]: (None) This is Adam from Facebook. I'm here today's interview gagmedia. I'm here to ask you some basic types of C++. Can you first vectors
- 
-[20240605030759]: (None) This is Adam from Facebook. I'm here today's interview gagmedia. I'm here to ask you some basic types of C++. Can you first vectors
- 
-[20240605030802]: (None) This is Adam from Facebook. I'm here today's interview gagmedia. I'm here to ask you some basic types of C++. Can you first vectors
- 
-[20240605030804]: (None) This is Adam from Facebook. I'm here today's interview gagmedia. I'm here to ask you some basic types of C++. Can you first vectors
- 
-[20240605030824]: (None) Hi, good morning.
- 
-[20240605030826]: (None) Hi, good morning.
- 
-[20240605030828]: (None) Uh, hi, good mo- Uh, this is Adam.
- 
-[20240605030830]: (None) Hi, good morning, this is Adam from Facebook.
- 
-[20240605030833]: (None) Hi, this is Adam from Facebook, and I'm your today's interviewer.
- 
-[20240605030835]: (None) Hi, this is Adam from Facebook, and I'm your today's interviewer.
- 
-[20240605030837]: (None) Hi, this is Adam from Facebook, and I'm your today's interviewer. I'm here to ask you some questions.
- 
-[20240605030840]: (None) Hi, this is Adam from Facebook, and I'm your today's interviewer. I'm here to ask you some basic concepts of machine learning.
- 
-[20240605030842]: (None) Hi, this is Adam from Facebook, and I'm your today's interviewer. I'm here to ask you some basic concepts of machine learning.
- 
-[20240605030845]: (None) Hi, this is Adam from Facebook, and I'm your today's interviewer. I'm here to ask you some basic concepts of machine learning. Can you first tell me the difference?
- 
-[20240605030847]: (None) Hi, this is Adam from Facebook, and I'm your today's interviewer. I'm here to ask you some basic concepts of machine learning. Can you first tell me the difference between machine learning and deep learning?
- 
-[20240605030850]: (None) Hi, this is Adam from Facebook, and I'm your today's interviewer. I'm here to ask you some basic concepts of machine learning. Can you first tell me the difference between machine learning and deep learning?
- 
-[20240605030925]: (None) ok ok 再次
- 
-[20240605030927]: (None) OK, OK, that's that's great.
- 
-[20240605030929]: (None) OK, OK, that's that's great.
- 
-[20240605030931]: (None) Okay. Okay. That's, that's, that's great. Uh, so, uh, can you.
- 
-[20240605030933]: (None) Okay, okay. That's, that's great. So, can you tell me more about the
- 
-[20240605030935]: (None) Okay, okay. That's, that's great. So, can you tell me more about the
- 
-[20240605030937]: (None) OK, OK, that's great. So can you tell me more about the popular machine learning model?
- 
-[20240605030940]: (None) Okay. Okay. That's great. So can you tell me more about the popular machine learning models? All the machine learning are
- 
-[20240605030942]: (None) Okay. Okay. That's great. So can you tell me more about the popular machine learning models? All the machine learning are
- 
-[20240605031000]: (None) Uh, hi, uh...
- 
-[20240605031002]: (None) Uh, hi, uh, this is Adam from Facebook.
- 
-[20240605031004]: (None) Uh, hi, uh, this is Adam from Facebook.
- 
-[20240605031006]: (None) Hi, this is Adam from Facebook. I'm here for today's interview.
- 
-[20240605031008]: (None) Hi, this is Adam from Facebook. I'm your today's interviewer. Glad to meet you.
- 
-[20240605031010]: (None) Hi, this is Adam from Facebook. I'm your today's interviewer. Glad to meet you.
- 
-[20240605031012]: (None) Hi, this is Adam from Facebook. I'm your today's interviewer. Glad to meet you. I'm here to...
- 
-[20240605031015]: (None) Hi, this is Adam from Facebook. I'm your today's interviewer. Glad to meet you. I'm here to ask you some questions.
- 
-[20240605031017]: (None) Hi, this is Adam from Facebook. I'm your today's interviewer. Glad to meet you. I'm here to ask you some questions about basic machine learning concepts.
- 
-[20240605031020]: (None) Hi, this is Adam from Facebook. I'm your today's interviewer. Glad to meet you. I'm here to ask you some questions about basic machine learning concepts. Can you first tell?
- 
-[20240605031022]: (None) Hi, this is Adam from Facebook. I'm your today's interviewer. Glad to meet you. I'm here to ask you some questions about basic machine learning concepts. Can you first tell me what's the difference between
- 
-[20240605031025]: (None) Hi, this is Adam from Facebook. I'm your today's interviewer. Glad to meet you. I'm here to ask you some questions about basic machine learning concepts. Can you first tell me what's the difference between machine learning and deep learning?
- 
-[20240605031028]: (None) Hi, this is Adam from Facebook. I'm your today's interviewer. Glad to meet you. I'm here to ask you some questions about basic machine learning concepts. Can you first tell me what's the difference between machine learning and deep learning?
- 
-[20240605031051]: (None) Okay, nice.
- 
-[20240605031053]: (None) Okay, nice, can you explain the...
- 
-[20240605031055]: (None) Nice, can you explain the transformer to us?
- 
-[20240605031057]: (None) Nice, can you explain the transformer to us?
- 
-[20240605031135]: (None) 嗨
- 
-[20240605031137]: (None) Hi, this is Adam from Facebook.
- 
-[20240605031140]: (None) Hi, this is Adam from Facebook, and I'm here...
- 
-[20240605031142]: (None) Hi, this is Adam from Facebook and I'm here, I'm your today's interviewer.
- 
-[20240605031144]: (None) Hi, this is Adam from Facebook and I'm here. I'm your today's interviewer and I'm here
- 
-[20240605031146]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031148]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031151]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031153]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031155]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031157]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031200]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031202]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031204]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031206]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031209]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031211]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031213]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031215]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031217]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031219]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031222]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031224]: (None) hi this is Adam from Facebook and I'm here I'm your today's interviewer and I'm here to
- 
-[20240605031329]: (None) Hi, this is
- 
-[20240605031331]: (None) Hi, this is Adam from Facebook.
- 
-[20240605031333]: (None) Hi, this is Adam from Facebook and I'm here today's
- 
-[20240605031335]: (None) Hi, this is Adam from Facebook, and I'm your today's interviewer.
- 
-[20240605031337]: (None) Hi this is Adam from Facebook and I'm your today's interviewer. I'm here to
- 
-[20240605031340]: (None) Hi this is Adam from Facebook and I'm your today's interviewer. I'm here to ask you something about
- 
-[20240605031342]: (None) Hi this is Adam from Facebook and I'm your today's interviewer. I'm here to ask you something about
- 
-[20240605031345]: (None) Hi, this is Adam from Facebook and I'm your today's interviewer. I'm here to ask you something about the basic concepts of machine learning.
- 
-[20240605031348]: (None) Hi this is Adam from Facebook and I'm your today's interviewer. I'm here to ask you something about the basic concepts of machine learning. Can you first tell me a little bit about machine learning?
- 
-[20240605031350]: (None) Hi this is Adam from Facebook and I'm your today's interviewer. I'm here to ask you something about the basic concepts of machine learning. Can you first tell me the difference
- 
-[20240605031353]: (None) Hi this is Adam from Facebook and I'm your today's interviewer. I'm here to ask you something about the basic concepts of machine learning. Can you first tell me the difference between machine learning and
- 
-[20240605031356]: (None) Hi, this is Adam from Facebook, and I'm your today's interviewer. I'm here to ask you something about the basic concepts of machine learning. Can you first tell me the difference between machine learning and deep learning?
- 
-[20240605031358]: (None) Hi, this is Adam from Facebook, and I'm your today's interviewer. I'm here to ask you something about the basic concepts of machine learning. Can you first tell me the difference between machine learning and deep learning?
- 
-[20240605031401]: (None) Hi, this is Adam from Facebook and I'm your today's interviewer. I'm here to ask you something about the basic concepts of machine learning. Can you first tell me the difference between machine learning and deep learning? Sure.
- 
-[20240605031403]: (None) Hi, this is Adam from Facebook and I'm your today's interviewer. I'm here to ask you something about the basic concepts of machine learning. Can you first tell me the difference between machine learning and deep learning? Sure, sure, yeah.
- 
-[20240605031406]: (None) Hi, this is Adam from Facebook and I'm your today's interviewer. I'm here to ask you something about the basic concepts of machine learning. Can you first tell me the difference between machine learning and deep learning? Sure, sure, yeah.
- 
-[20240605031436]: (None) Good.
- 
-[20240605031438]: (None) good can you isn't tell
- 
-[20240605031440]: (None) good can you isn't tell
- 
-[20240605031442]: (None) good can you isn't
- 
-[20240605031444]: (None) good can you isn't
- 
-[20240605031446]: (None) good can you isn't can you can you then
- 
-[20240605031448]: (None) good can you isn't can you can you then
- 
-[20240605031450]: (None) good can you isn't can you can you then
- 
-[20240605031453]: (None) Uh, good, uh, can you then tell, uh, can you, can you then, uh, uh, can you explain the
- 
-[20240605031455]: (None) good can you isn't can you can you can you explain the transformer to me
- 
-[20240605031457]: (None) good can you isn't can you can you can you explain the transformer to me
+[20240605155926]: (None) Can you first give me some example of the difference between machine learning and deep learning?
  

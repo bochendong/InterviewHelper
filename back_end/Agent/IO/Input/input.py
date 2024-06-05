@@ -53,24 +53,19 @@ def capture_and_save_audio(save_path = './Data/audio'):
 
     return file_path
 
-def is_phrase_complete(phrase_time, phrase_timeout):
-    now = datetime.utcnow()
-    return phrase_time and now - phrase_time > timedelta(seconds=phrase_timeout)
-
 def get_source_recoder():
     data = read_voice_settings()
     record_timeout = data['record_timeout']
     phrase_timeout = data['phrase_timeout']
+    pause_threshold = data['pause_threshold']
     recorder = sr.Recognizer()
     recorder.energy_threshold = data['energy_threshold']
     recorder.dynamic_energy_threshold = data['dynamic_energy_threshold']
     source = sr.Microphone(sample_rate=data['sample_rate'])
 
-    return source, recorder, record_timeout, phrase_timeout
+    return source, recorder, record_timeout, phrase_timeout, pause_threshold
 
 def capture_and_save_audio_background(data_queue, source, recorder, record_timeout):
-    with source:
-        recorder.adjust_for_ambient_noise(source)
 
     def record_callback(_, audio:sr.AudioData) -> None:
         """
@@ -78,10 +73,13 @@ def capture_and_save_audio_background(data_queue, source, recorder, record_timeo
         audio: An AudioData containing the recorded bytes.
         """
         data = audio.get_raw_data()
-        data_queue.append(data)
+        data_queue.put(data)
 
-    print("Recorder start Listening at backend")
+    with source:
+        recorder.adjust_for_ambient_noise(source)
     recorder.listen_in_background(source, record_callback, phrase_time_limit=record_timeout)
+    
+    print("Recorder start Listening at backend")
 
 
 def speech_to_text(file_path):
